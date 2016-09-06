@@ -1,4 +1,6 @@
 # corr-revisit
+Due to space limit, we put part of our experimental results in this repository. 
+
 
 detailed_related_work.xlsx: this file lists the detailed information of all the related work on the correlation between testing criteria and test-suite effectiveness. 
 
